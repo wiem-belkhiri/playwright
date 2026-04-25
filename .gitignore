@@ -6,3 +6,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+tests/playground.specs.ts
+tests/test-1.spec.ts
